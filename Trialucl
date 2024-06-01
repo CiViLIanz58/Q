@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-
 #EXTINF:-1 xui-id="57" tvg-id="UseeSports" tvg-name="Beinsport 1 FHD" tvg-logo="http://fastserver.my.id:8080/images/9efd81fb063c1b296630102f2f75cf11.png" group-title="Sports",Beinsport 1 FHD
-http://fastserver.my.id:8080/play/VPYzK7BDzsu8mqQno7NayaN1-MCVI7eKV3OBNvE22Io/ts
+http://fastserver.my.id:8080/play/xG0faXV6NOOtWq16bKM-0PcdnrQMzQvf1KX8spAjC84/ts
 
 #EXTINF:-1 xui-id="58" tvg-id="UseeSports2" tvg-name="Beinsport 3 FHD" tvg-logo="http://fastserver.my.id:8080/images/9efd81fb063c1b296630102f2f75cf11.png" group-title="Sports",Beinsport 3 FHD
-http://fastserver.my.id:8080/play/VPYzK7BDzsu8mqQno7NayViXi0HzyNss1Io5vno-DhE/ts
+http://fastserver.my.id:8080/play/xG0faXV6NOOtWq16bKM-0BMvpGv9m4H-5I4HcvTIY4I/ts
 
 EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
