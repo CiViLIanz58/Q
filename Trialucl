@@ -1,25 +1,6 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-
-#EXTINF:-1 xui-id="57" tvg-id="UseeSports" tvg-name="Beinsport 1 FHD" tvg-logo="http://fastserver.my.id:8080/images/9efd81fb063c1b296630102f2f75cf11.png" group-title="Sports",Beinsport 1 FHD
-http://fastserver.my.id:8080/play/xG0faXV6NOOtWq16bKM-0PcdnrQMzQvf1KX8spAjC84/ts
 
-#EXTINF:-1 xui-id="58" tvg-id="UseeSports2" tvg-name="Beinsport 3 FHD" tvg-logo="http://fastserver.my.id:8080/images/9efd81fb063c1b296630102f2f75cf11.png" group-title="Sports",Beinsport 3 FHD
-http://fastserver.my.id:8080/play/xG0faXV6NOOtWq16bKM-0BMvpGv9m4H-5I4HcvTIY4I/ts
-
-EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png", BEIN SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png", BEIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-id="beINSports1.my" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BEIN SPORTS 1 INDONESIA
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://tv.burhansyam.com/api/bein1.m3u8?t=666
-
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="BEIN SPORTS" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0", beIN Sports 3 
-https://bit.ly/3QyIZgt
+#EXTINF:1 tvg-id="beINSports3Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Olahraga", beIN Sports Thailand 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_sport6_1080p/chunklist.m3u8
